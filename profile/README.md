@@ -20,6 +20,6 @@ La version de développement peut être testée à l'adresse suivante : <https:/
 
 Le projet numérique de PIMS dématérialisé est construit sur 3 repository Github :
 
-- [pims-frontend](https://github.com/david-bretaud-dev/pims-frontend) : Application React pour créer l'interface cliente accessible sur le web. Réalisée avec le framework Vite.
-- [pims-proxy](https://github.com/david-bretaud-dev/pims-proxy) : Des fonctions serverless pour opérer en proxy sur certaines requêtes du client pims-frontend.
-- [pims-backend](https://github.com/david-bretaud-dev/pims-backend) : Application Flask pour gérer la génération de PDF dans un environnement d'AWS Lambda function.
+- [pims-frontend](https://github.com/pims-online/pims-frontend) : Application React pour créer l'interface cliente accessible sur le web. Réalisée avec le framework Vite.
+- [pims-proxy](https://github.com/pims-online/pims-proxy) : Des fonctions serverless pour opérer en proxy sur certaines requêtes du client pims-frontend.
+- [pims-backend](https://github.com/pims-online/pims-backend) : Application Flask pour gérer la génération de PDF dans un environnement d'AWS Lambda function.
